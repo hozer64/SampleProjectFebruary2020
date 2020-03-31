@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="212645" started-at="2020-03-12T02:12:01Z" finished-at="2020-03-12T02:15:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="212645" started-at="2020-03-12T02:12:01Z" finished-at="2020-03-12T02:15:33Z">
+      <class name="Tests.PhoneCustomPageTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:Tests.PhoneCustomPageTest@475530b9]" name="SetUp" is-config="true" duration-ms="69165" started-at="2020-03-11T22:12:01Z" finished-at="2020-03-11T22:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="dosendAndClick()[pri:2, instance:Tests.PhoneCustomPageTest@475530b9]" name="dosendAndClick" duration-ms="142770" started-at="2020-03-11T22:13:10Z" description="test of correctly customization of phone" finished-at="2020-03-11T22:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dosendAndClick -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Tests.PhoneCustomPageTest@475530b9]" name="tearDown" is-config="true" duration-ms="612" started-at="2020-03-11T22:15:33Z" finished-at="2020-03-11T22:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.PhoneCustomPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
